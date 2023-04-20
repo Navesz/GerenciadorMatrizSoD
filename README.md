@@ -35,7 +35,7 @@ O sistema permite o cadastro e consulta de sistemas, perfis de acesso, matriz So
 1.  Abra o terminal (Linux e Mac) ou prompt de comando (Windows) e navegue até o diretório onde estão os arquivos do projeto.
 2.  Execute o arquivo principal do projeto com o comando:
 
-`python main.py`
+`python login.py`
 
 3.  A tela de login será exibida. Insira as credenciais de acesso (usuário: admin, senha: admin) para acessar o sistema e começar a utilizá-lo.
 
